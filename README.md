@@ -59,7 +59,7 @@ Welcome to **MY-OWN-LLM**! This is my 7-day journey of building a language model
 - **What I Did**: Fine-tuned TinyLlama with `trainer.train()` (18+ Hours ), added a Gradio UI with `gr.Blocks`.
 - **Output**: "How do these technologies help in predicting future events? 1. Predictive maintenance…"—not perfect, but so much better!
 - **Challenges**: Took forever—GPU wasn't enough, hit Colab limits, switched accounts to finish.
-- **LinkedIn Post**: [Day 7 Post](https://www.linkedin.com/placeholder-day7) 
+- **LinkedIn Post**: [Day 7 Post](https://www.linkedin.com/posts/manu1435_day7of7llmjourney-machinelearning-ai-activity-7313128073258749952-32aK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADjcrkQBSEeDXyyLLO9JOr3MIWAXPdCzDJ8) 
 
 ---
 
